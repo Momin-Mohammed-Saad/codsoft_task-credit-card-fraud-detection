@@ -155,6 +155,6 @@ Run the notebook cells sequentially.
 ---
 
 ## Author
-Saad Siddiqui
+Momin Saad
 
 Developed as a Machine Learning project for Credit Card Fraud Detection.
